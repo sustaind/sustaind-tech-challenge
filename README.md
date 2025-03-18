@@ -1,4 +1,4 @@
-# Sustaind Platform Engineering Challenge
+# Sustaind Platform/DevOps Engineering Challenge
 
 ## Overview
 
